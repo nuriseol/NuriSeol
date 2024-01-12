@@ -1,4 +1,4 @@
-<h3>✨ Publisher, Nuri</h2>
+<h2>✨ Publisher, Nuri</h2>
 
 <p>Hi there! I am currently working as a publisher at an IT venture company specializing in web-based solutions, platform development, and AI-based data analysis. 
   
