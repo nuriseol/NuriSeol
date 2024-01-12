@@ -1,9 +1,11 @@
-<h2>Hi there 👋 </h2>
+<h3>✨ Publisher, Nuri</h2>
 
-<p>👋 Hi there! I am currently working as a publisher at an IT venture company specializing in web-based solutions, platform development, and AI-based data analysis. I began my career as a graphic designer in a sustainable business consulting firm, where I developed a comprehensive understanding of corporate design.</p>
+<p>Hi there! I am currently working as a publisher at an IT venture company specializing in web-based solutions, platform development, and AI-based data analysis. 
+  
+  I began my career as a graphic designer in a sustainable business consulting firm, where I developed a comprehensive understanding of corporate design.</p>
+<br/>
 
-
-<h2>💪 Skills </h2>
+<h3>💪 Skills </h2>
 
 ##### Platforms & Languages
 
@@ -25,3 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/angular-D6002F?style=flat-square&logo=angular&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+##### Design
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> 
