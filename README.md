@@ -1,9 +1,11 @@
-### Hi there 👋 
+<h2>Hi there 👋 </h2>
 
-👋 Hi there! I'm publisher
+<p>👋 Hi there! I am currently working as a publisher at an IT venture company specializing in web-based solutions, platform development, and AI-based data analysis. I began my career as a graphic designer in a sustainable business consulting firm, where I developed a comprehensive understanding of corporate design.</p>
 
 
-### 💪 Skills
+<h2>💪 Skills </h2>
+
+##### Platforms & Languages
 
 <!--
 **NuriSeol/NuriSeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
