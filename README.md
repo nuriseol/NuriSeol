@@ -5,7 +5,7 @@
   I began my career as a graphic designer in a sustainable business consulting firm, where I developed a comprehensive understanding of corporate design.</p>
 <br/>
 
-<h2>💪 Skills </h2>
+<h3>💪 Skills </h2>
 
 ##### Platforms & Languages
 
