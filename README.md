@@ -2,7 +2,7 @@
 
  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:qqq4020@naver.com)](mailto:qqq4020@naver.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nuinurss@gmail.com)](mailto:nuinurss@gmail.com)
 
-<p>Hi there! I am currently working as a publisher at an IT venture company specializing in web-based solutions, platform development, and AI-based data analysis. 
+<p>Hi there! I am currently working as a front developer at an IT venture company specializing in web-based solutions, platform development, and AI-based data analysis. 
   
   I began my career as a graphic designer in a sustainable business consulting firm, where I developed a comprehensive understanding of corporate design.</p>
 <br/>
