@@ -1,4 +1,4 @@
-<h2>✨ Front Developer, Nuri</h2>
+<h2>✨ Front-end developer, Nuri</h2>
 
  [![Gmail Badge](https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:qqq4020@naver.com)](mailto:qqq4020@naver.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nuinurss@gmail.com)](mailto:nuinurss@gmail.com)
 
